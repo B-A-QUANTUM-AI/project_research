@@ -1,0 +1,7 @@
+idea 1: Farming AI solution
+Purpose: Predict droughts, floods, and rainfall patterns.
+Farmers can plan planting, harvesting, and protect crops from extreme weather.
+
+idea 2: Bank chatbot
+Purpose: Makes swifiting through bank apps way easier
+Banks can implement this and customers can use it to ask questions and queries.
