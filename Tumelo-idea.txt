@@ -1,0 +1,2 @@
+1. Food.AI
+  = User inputs the dish to be made and AI provides the ingredients and methods/instructions on how that dish is made.
