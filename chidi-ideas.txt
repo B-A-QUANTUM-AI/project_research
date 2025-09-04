@@ -1,4 +1,7 @@
-idea 1 : Tripwise
-an ai soiultion that helps users .
+Idea 1 : Tripwise
+An AI soiultion that helps users plan their holiday trips based on their budget. It will ask user for theiur budget, current country of residence, duration of stay and their interests such as culture, art, food etc. 
+The AI will help them find a good flight itinerary, and filter results based on their preferences. It will also reserve 5% for miscellanous. The solution will generate a complete activity list for the duration of stay as well as estimating local transport fares for visiting locatins and for hotel lodgings
 
 idea 2 : Triage
+The solution will be used to assist EMT officers in emergency situations to quickly categorize patients in a crisis. It will allow the Officers enter each patients number tag as in emergency scenario (like 1,2,3,...)
+and for each person, to state observe symptoms and conditions, then it will quickly categorize all patients based on priority for need of help and help EMT officers attend to each patient in order of  the priority to maximise survival chance for every patient
