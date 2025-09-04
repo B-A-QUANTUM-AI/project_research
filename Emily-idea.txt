@@ -1,0 +1,5 @@
+Idea 1:AI Learning Assistant for Diverse Learners
+Purpose: Support slow learners, fast learners, and neurodiverse students ( ADHD, autism) with personalized learning.
+-The system adapts content, pace, and teaching style using AI techniques like NLP and learner profiling.
+-It offers simplified explanations, focused sessions, and interactive tools suited to each learner's needs.
+-This helps improve academic performance, engagement, and access to inclusive education for all.
