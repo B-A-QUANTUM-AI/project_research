@@ -1,3 +1,6 @@
+First idea:
 -AI that detects misinformation about the news, which can help journalists to filter credible news and combat misinformation.
+
+Second idea:
 -AI that helps you to find a job according to your qualification,
-  -helps you to create a CV and also recommends of jobs you can apply for, but it does not apply for.
+-helps you to create a CV and also recommends of jobs you can apply for, but it does not apply for.
