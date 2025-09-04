@@ -1,0 +1,11 @@
+Idea 1 : Predictive Management System
+- Use sensor data and machine learning to predict equipment failures before they occur, reducing downtime and maintenance costs
+
+Idea 2 : Drug Discovery Assistant
+- Machine learning platform to identify potential drug compounds and predict their effectiveness
+
+Idea 3 : Medical Image Analysis Tool
+- AI system to assist in analyzing X-rays, MRIs, or CT scans for early disease detection
+
+Idea 4 : Algorithmic Trading Bot
+- An AI automated trading system using market data analysis and predictive modeling
