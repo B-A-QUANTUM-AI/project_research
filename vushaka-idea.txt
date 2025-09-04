@@ -1,0 +1,6 @@
+Idea 1: Retail Inventory Management
+ -AI system that predicts future product demand for a retail store based on historical sales, seasonal trends and events.
+ Idea 2: Maintenance & Fault Detection for Manufacturing Machines
+   -AI that analyzes data from manufacturing machines e.g vibration data, temperature, sound patterns to predict failures before they happen
+ Idea 3: Brain Tumor Detection & Classification
+   -The AI will first analyse the MRI scan to classify whether it’s healthy or has a tumor using  classification. If a tumor is detected, it will analyse the scan again and classify the tumor type. 
