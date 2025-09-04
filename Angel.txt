@@ -1,0 +1,9 @@
+idea 1: AI-Powered Wellness Coach 
+AI Chatbot Check-ins: Daily or weekly mood assessments via chat.
+Workload Analysis: Integrates with calendars, email, and task managers to predict burnout risk
+*After-Hours Activity	Emails sent between 8 PM–6 AM
+*After-Hours Activity	Emails sent between 8 PM–6 AM
+*Weekend Work Logins/email activity on weekends
+
+idea 2: Minibus Taxi Routing AI: Helps taxi drivers optimize routes based on demand, traffic, and fuel efficiency.
+Problem: Inefficient public transport, traffic, or lack of logistics for small vendors.
