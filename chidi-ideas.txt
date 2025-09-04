@@ -1,0 +1,4 @@
+idea 1 : Tripwise
+an ai soiultion that helps users .
+
+idea 2 : Triage
